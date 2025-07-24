@@ -1,0 +1,19 @@
+baseURL = 'https://fu220.github.io/'
+# 网站语言
+languageCode = "en-us"              
+
+# 网站title
+title = "试运行"                   
+
+# 主题的名字，这个要跟myblog/themes 目录中的子目录的目录名一致
+theme = 'PaperMod'  
+
+# home/category/tag 页面显示的文章数 (Default: 10)
+pagination.pagerSize = 5
+
+# home/category/tag 页面用于摘要的字数 (Default: 70)
+summaryLength = 50
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
