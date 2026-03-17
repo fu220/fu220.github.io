@@ -1,5 +1,5 @@
 baseURL = "https://fu220.github.io/"
-title = "试运行"
+title = "blog"
 # author = "wamo"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -87,17 +87,6 @@ darkmode = "light"
     url = "/"
     weight = 1
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 3
 
 [taxonomies]
 category = "categories"
